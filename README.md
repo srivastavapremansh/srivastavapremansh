@@ -19,8 +19,6 @@ I'm a Student Developer and Cybersecurity enthusiast. I'm passionate about build
 ---
 
 ## 💻 Tech Stack:
-![Animated Badge](https://img.shields.io/badge/Loading-animated-green?style=for-the-badge&logo=github)
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -30,8 +28,9 @@ I'm a Student Developer and Cybersecurity enthusiast. I'm passionate about build
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Microsoft Copilot](https://img.shields.io/badge/Microsoft_Copilot-1F9CF0?style=for-the-badge&logo=microsoft&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Copilot](https://img.shields.io/badge/Microsoft%20Copilot-1F9CF0?style=for-the-badge&logo=microsoft&logoColor=white)
+
 
 
 ## 📊 GitHub Stats
