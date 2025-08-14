@@ -11,3 +11,9 @@ I'm a Student Developer and Cybersecurity enthusiast. I'm passionate about build
 - 💻 Languages: JavaScript, Python, C , C++
 - 🌐 Frameworks: React, Node.js, Tailwind CSS
 - 🛢️ Tools: Git, GitHub, VS Code, Microsoft Copilot
+
+## 📊 GitHub Stats:
+
+![Premansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=srivastavapremansh&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srivastavapremansh&layout=compact&theme=radical)
