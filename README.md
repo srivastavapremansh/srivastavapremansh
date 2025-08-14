@@ -32,6 +32,8 @@ I'm a Student Developer and Cybersecurity enthusiast. I'm passionate about build
 
 
 ## 📊 GitHub Stats
+![srivastavapremansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=srivastavapremansh&show_icons=true&theme=radical)
+
 
 ![Premansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=srivastavapremansh&show_icons=true&theme=radical)
 
