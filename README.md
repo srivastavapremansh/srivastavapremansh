@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=40&pause=1000&color=FFFFFF&width=1200&lines=Hey+there,+I'm+Premansh+Srivastava!+%F0%9F%91%8B)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=40&pause=1000&color=00FFFF&width=1200&lines=Hey+there,+I'm+Premansh+Srivastava!+%F0%9F%91%8B)
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=40&pause=1000&color=FF6EC7&width=1200&lines=Hey+there,+I'm+Premansh+Srivastava!+%F0%9F%91%8B)
 
 
