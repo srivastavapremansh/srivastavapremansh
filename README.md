@@ -10,10 +10,6 @@ I'm a Student Developer and Cybersecurity enthusiast. I'm passionate about build
 - 🌱 I’m learning full-stack development
 - 📫 How to reach me: srivastavapremansh@gmail.com
 
-## 🛠️ Tech Stack:
-- 💻 Languages: JavaScript, Python, C , C++
-- 🌐 Frameworks: React, Node.js, Tailwind CSS
-- 🛢️ Tools: Git, GitHub, VS Code, Microsoft Copilot
 ## 🌐 Connect With Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-01-srivastavapremanshs-projects.vercel.app/#home)
