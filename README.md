@@ -1,6 +1,9 @@
 # Hey there, I'm Premansh Srivastava! 👋
 
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&width=435&lines=Hello+World;Welcome+to+my+GitHub+Profile)
+![Animated SVG](https://raw.githubusercontent.com/yourusername/yourrepo/main/animation.svg)
+![My Animation](https://media.giphy.com/media/your-gif-link.gif)
 
 
 ## 👨‍💻 About Me
