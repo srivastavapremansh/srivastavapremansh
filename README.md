@@ -11,9 +11,20 @@ I'm a Student Developer and Cybersecurity enthusiast. I'm passionate about build
 - 💻 Languages: JavaScript, Python, C , C++
 - 🌐 Frameworks: React, Node.js, Tailwind CSS
 - 🛢️ Tools: Git, GitHub, VS Code, Microsoft Copilot
+## 🌐 Connect With Me
 
-## 📊 GitHub Stats:
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-01-srivastavapremanshs-projects.vercel.app/#home)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/premansh-srivastava)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/srivastavapremansh)
+
+---
+
+## 📊 GitHub Stats
 
 ![Premansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=srivastavapremansh&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srivastavapremansh&layout=compact&theme=radical)
+
+---
+
+> ⚡ *“Throw me a challenge, and I’ll solve it one line of code at a time.”*
