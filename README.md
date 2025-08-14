@@ -2,6 +2,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Algerian&size=40&pause=1000&color=87CEEB&width=900&lines=HEY+THERE,+I'M+PREMANSH+SRIVASTAVA!+%F0%9F%91%8B%20%E2%80%8B)
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Algerian&size=40&pause=1000&color=87CEEB&width=900&height=70&lines=HEY+THERE,+I'M+PREMANSH+SRIVASTAVA!+%F0%9F%91%8B%20%E2%80%8B)
 
 
 
