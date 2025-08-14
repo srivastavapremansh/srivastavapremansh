@@ -1,7 +1,5 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=40&pause=1000&color=87CEEB&width=900&lines=HEY+THERE,+I'M+PREMANSH+SRIVASTAVA!+%F0%9F%91%8B)
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rubik&size=40&pause=1000&color=87CEEB&width=900&lines=HEY+THERE,+I'M+PREMANSH+SRIVASTAVA!)
-![Waving Hand](https://img.shields.io/badge/-👋-87CEEB?style=for-the-badge)
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rubik&size=40&pause=1000&color=87CEEB&width=900&lines=HEY+THERE,+I'M+PREMANSH+SRIVASTAVA!+%F0%9F%91%8B%F0%9F%8F%BB)
+
 
 
 
