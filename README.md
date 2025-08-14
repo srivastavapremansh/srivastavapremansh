@@ -1,4 +1,3 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=40&pause=1000&color=800080&width=1200&lines=Hey+there,+I'm+Premansh+Srivastava!+%F0%9F%91%8B)
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=40&pause=1000&color=87CEEB&width=1200&lines=Hey+there,+I'm+Premansh+Srivastava!+%F0%9F%91%8B)
 
 
