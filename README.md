@@ -1,12 +1,6 @@
 <!-- //![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=40&pause=1000&color=87CEEB&width=900&lines=HEY+THERE,+I'M+PREMANSH+SRIVASTAVA!+%F0%9F%91%8B) -->
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Algerian&size=40&pause=1000&color=87CEEB&width=900&height=70&lines=HEY+THERE,+I'M+PREMANSH+SRIVASTAVA!+%F0%9F%91%8B%E2%80%8B)
-
-
-
-
-
-
 ## 👨‍💻 About Me
 I'm a Student Developer and Cybersecurity enthusiast. I'm passionate about building robust and secure websites using C++ and Python, with a strong focus on secure coding principles..
 
