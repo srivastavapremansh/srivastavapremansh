@@ -1,5 +1,3 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rubik&size=35&pause=1000&color=87CEEB&width=900&lines=HEY+THERE,+I'M+PREMANSH+SRIVASTAVA!+%F0%9F%91%8B)
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rubik&size=40&pause=1000&color=87CEEB&width=900&lines=%0A%0AHEY+THERE,+I'M+PREMANSH+SRIVASTAVA!+%F0%9F%91%8B)
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=40&pause=1000&color=87CEEB&width=900&lines=HEY+THERE,+I'M+PREMANSH+SRIVASTAVA!+%F0%9F%91%8B)
 
 
