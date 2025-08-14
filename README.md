@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hey there, I'm Premansh Srivastava! 👋
 
-<!--
-**srivastavapremansh/srivastavapremansh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+I'm a Student Developer and Cybersecurity enthusiast. I'm passionate about building robust and secure websites using C++ and Python, with a strong focus on secure coding principles..
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on exciting projects
+- 🌱 I’m learning full-stack development
+- 📫 How to reach me: srivastavapremansh@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack:
+- 💻 Languages: JavaScript, Python, C , C++
+- 🌐 Frameworks: React, Node.js, Tailwind CSS
+- 🛢️ Tools: Git, GitHub, VS Code, Microsoft Copilot
