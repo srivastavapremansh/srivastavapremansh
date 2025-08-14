@@ -1,6 +1,6 @@
 # Hey there, I'm Premansh Srivastava! 👋
 
-![Animated Badge](https://img.shields.io/badge/Loading-animated-green?style=for-the-badge&logo=github)
+
 
 
 ## 👨‍💻 About Me
@@ -23,6 +23,7 @@ I'm a Student Developer and Cybersecurity enthusiast. I'm passionate about build
 ---
 
 ## 💻 Tech Stack:
+![Animated Badge](https://img.shields.io/badge/Loading-animated-green?style=for-the-badge&logo=github)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
