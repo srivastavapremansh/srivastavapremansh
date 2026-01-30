@@ -30,14 +30,21 @@ I'm a Student Developer and Cybersecurity enthusiast. I'm passionate about build
 ![Copilot](https://img.shields.io/badge/Microsoft%20Copilot-1F9CF0?style=for-the-badge&logo=microsoft&logoColor=white)
 
 
-
-## 📊 GitHub Stats
+<h2>📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=srivastavapremansh&show_icons=true&theme=radical&cache_seconds=1800" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=srivastavapremansh&show_icons=true&theme=radical"
+    height="165"
+    referrerpolicy="no-referrer"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srivastavapremansh&layout=compact&theme=radical&cache_seconds=1800" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=srivastavapremansh&layout=compact&theme=radical"
+    height="165"
+    referrerpolicy="no-referrer"
+  />
 </p>
 > ⚡ *“Throw me a challenge, and I’ll solve it one line of code at a time.”*
