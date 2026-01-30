@@ -33,11 +33,11 @@ I'm a Student Developer and Cybersecurity enthusiast. I'm passionate about build
 
 ## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=srivastavapremansh&show_icons=true&theme=radical&cache_seconds=1800" />
+</p>
 
-![Premansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=srivastavapremansh&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srivastavapremansh&layout=compact&theme=radical)
-
----
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srivastavapremansh&layout=compact&theme=radical&cache_seconds=1800" />
+</p>
 > ⚡ *“Throw me a challenge, and I’ll solve it one line of code at a time.”*
